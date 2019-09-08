@@ -48,7 +48,10 @@ def monopoly_with_third_tier
       {
         "mortgage_value"=>"$400"
       },
-      :shortline=>{}
+      :shortline=> 
+      {
+        
+      },
 end
 
 def monopoly_with_fourth_tier
